@@ -1,6 +1,12 @@
 var Title = React.createClass({
   render: function () {
-    return <h1>Hello Component!!</h1>
+    return (
+      <div className="opa-opa">
+        <h1>
+          <span>Hello Component!!</span>
+        </h1>
+      </div>
+    )
   }
 });
 
