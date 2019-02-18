@@ -9,7 +9,7 @@
   "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.me/)",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.16.2"
+    "webpack": "^4.29.5",
+    "webpack-dev-server": "^3.1.14"
   }
 }
